@@ -5,12 +5,12 @@
 ## Establishment Phase - NOW
 ![image](establishment_phase.png "Establishment Phase")
 ### Overview:
-In order to become and established nation it is critical that Lettree gains the ability to field a viable force to enable defense from outside forces and enforce order from within. Lettree must also establishes some capacity, however small it may need to be, to investigate and interact with the outside world in a manner enabling the understanding of and mitigation of risks.
+In order to become an established nation, it is critical that Lettree gains the ability to field a viable force to enable defense from outside forces and enforce order from within. Lettree must also establish some capacity, however small it may need to be, to investigate and interact with the outside world in a manner enabling the understanding of and mitigation of risks.
 
 ### Goals:
 - Build a force that can be established rapidly
 - Ensure this force that can stretch minimal rescources and manpower
-- Ensure this force that compliments and utilises whatever initial strategic assets available to Lettree. Currently:
+- Ensure this force compliments and utilises whatever initial strategic assets available to Lettree. Currently:
     - The Network Embassy Operators within Statue Heaven
     - Aarakockra Sparverius mages
     - The Dark Golems produced by the golem forge
@@ -21,11 +21,11 @@ In order to become and established nation it is critical that Lettree gains the 
 ### Make Up:
 #### Law Enforcement and Military Branches:
 ##### **The Red Plume City Gendarmerie**:
-- A mixed general purpose force responsible for the day to day responsibilities of law enforcement and all branches of the Lettree Military, joined to maximise minimal available manpower to create a single largest viable force of action
+- A mixed general purpose force responsible for the day to day responsibilities of law enforcement and all branches of the Lettree Military, joined to maximise minimal available manpower to create a single largest viable force of action.
 - Led by **Chief Commissioner Scarlet Husband the Winged**
     - Skilled artificer.
-    - Chosen for this role on account of his broad knowledge of both magecraft and it's physical aplication as well as non linear problem solving capability required for engineering.
-    - Intended to form macro scale strategic plans through use of his own knowledge as well as the ability to ingest recommendations and advise from other skilled advisors and unify many voices into a comprehesive and cohesive strategy.
+    - Chosen for this role on account of his broad knowledge of both magecraft and it's physical aplication as well as the non linear problem solving capability required for engineering.
+    - Intended to form macro scale strategic plans through use of his own knowledge as well as the ability to ingest recommendations and advise from other skilled advisors and unify many voices into a single comprehesive and cohesive strategy.
 
 ![image](scarlet_husband_the_winged.jpg "Chief Commissioner Scarlet Husband the Winged")
 - Supported by **Interim Deputy Commissioner Silas**
@@ -100,3 +100,9 @@ The development of stronger distinct forces for order and defense will allow for
 
 ## Advancement Phase
 ![image](advancement_phase.png "Advancement Phase")
+### Overview
+In order to advance forward as a nation Lettree needs to step beyond it's orgins as a City State become a multi settlement civilisation. Achieving this goal and establishing new cities beyond Red Plume City will be diffucult but once achieved the scale of defending and enforcing the law in multiple locations seperated by considerable distances will represent it's own challeges. 
+
+In regards to defense, it is essential that Lettree is able to scale its armed forces in a way that provides the manpower to engage in combat on multiple fronts while maintaining agility and cohesion. The substantial jump from city state to multi settlement nation will also likely increase Lettree's capability to engage in larger scale politics on the international stage, such actions requires a more substantial combatative force capable of waging large scale operations far from home.
+
+In regards to law enforcement, it is essential that lettree is capable of forming new Police Force institutions for each settlement it founds in order to enforce the law and maintain order in each settlement. In order to invistage crimes that cross city borders or crimes of great interest to nation of lettree itself and innapropriate to investigate at city level, Lettree must establish some form of national level investigative capability to fill the gaps between each city's respective police force.
