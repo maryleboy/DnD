@@ -2,7 +2,7 @@
 ## Cites
 The cities of Lettree are as  follows:
 ### Red Plume City
-- [Development Plan](https://github.com/maryleboy/DnD/blob/main/kyle_campaign/lettree/cities/red_plume_city/construction/establishment_plan/README.md)
+- [Establishment Plan](https://github.com/maryleboy/DnD/blob/main/kyle_campaign/lettree/cities/red_plume_city/construction/establishment_plan/README.md)
 - [Local Government Structure](https://github.com/maryleboy/DnD/blob/main/kyle_campaign/lettree/not_implemented.md)
 - [Police Force Structure](https://github.com/maryleboy/DnD/blob/main/kyle_campaign/lettree/not_implemented.md)
 - [Labour Union Structure](https://github.com/maryleboy/DnD/blob/main/kyle_campaign/lettree/not_implemented.md)

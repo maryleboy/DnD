@@ -1,4 +1,5 @@
-# Red Plume City Development Plan
+[back to Lettree Documentation Homepage](https://github.com/maryleboy/DnD/blob/main/kyle_campaign/lettree/README.md)
+# Red Plume City Establishment Plan
 Note: All diagrams displaying a top view are drawn such that up is north, right is east ect.
 ## Current Situation
 ![alt text](stage_0.png "Title")
