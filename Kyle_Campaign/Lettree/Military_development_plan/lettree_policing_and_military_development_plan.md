@@ -103,6 +103,13 @@ The development of stronger distinct forces for order and defense will allow for
 ### Overview
 In order to advance forward as a nation Lettree needs to step beyond it's orgins as a City State become a multi settlement civilisation. Achieving this goal and establishing new cities beyond Red Plume City will be diffucult but once achieved the scale of defending and enforcing the law in multiple locations seperated by considerable distances will represent it's own challeges. 
 
+In regards to law enforcement, it is essential that lettree is capable of forming new Police Force institutions for each settlement it founds in order to enforce the law and maintain order in each settlement. In order to invistage crimes that cross city borders or crimes of great interest to nation of lettree itself and innapropriate to investigate at city level, Lettree must establish some form of national level investigative capability to fill the gaps between each city's respective police force.
+
 In regards to defense, it is essential that Lettree is able to scale its armed forces in a way that provides the manpower to engage in combat on multiple fronts while maintaining agility and cohesion. The substantial jump from city state to multi settlement nation will also likely increase Lettree's capability to engage in larger scale politics on the international stage, such actions requires a more substantial combatative force capable of waging large scale operations far from home.
 
-In regards to law enforcement, it is essential that lettree is capable of forming new Police Force institutions for each settlement it founds in order to enforce the law and maintain order in each settlement. In order to invistage crimes that cross city borders or crimes of great interest to nation of lettree itself and innapropriate to investigate at city level, Lettree must establish some form of national level investigative capability to fill the gaps between each city's respective police force.
+### Goals
+- Build dedicated police forces for each city founded as part of Lettree
+- Build some capability to investigate crimes at a national level to assist the city level police forces
+- Drastically increase the scale of the Lettree Armed Forces
+- Gain the capacity to engage in conflict far from home in order to fulfil strategic international political goals
+- Complement the policing and military institutions with a more developed and robust set of special forces units.
